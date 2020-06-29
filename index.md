@@ -8,3 +8,5 @@ Chopper ist ein Charakter aus der Manga- und Anime-Serie One Piece. Er ist ein R
 * gerät leicht in Panik
 * vergisst gerne, dass er Arzt ist
 * ist begeisterungsfähig
+
+> Wir brauchen Arzt! ... Ich bin ja Arzt!
