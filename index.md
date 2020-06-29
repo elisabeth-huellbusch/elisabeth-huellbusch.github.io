@@ -10,3 +10,5 @@ Chopper ist ein Charakter aus der Manga- und Anime-Serie One Piece. Er ist ein R
 * ist begeisterungsfähig
 
 > Wir brauchen Arzt! ... Ich bin ja Arzt!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Fancy_Frontier_16_%E5%96%AC%E5%B7%B4_%284823366727%29.jpg/360px-Fancy_Frontier_16_%E5%96%AC%E5%B7%B4_%284823366727%29.jpg?uselang=de"/>
